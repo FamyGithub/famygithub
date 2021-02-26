@@ -3,9 +3,10 @@
 - :keyboard: - Vality Botnet Admin
 - :orange_book: - C & Go Developer
 
+```
 Keybase: @famy
 Telegram: @famyvape
-
+```
 
 # :trophy: Github Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=famygithub&show_icons=true&layout=compact)
